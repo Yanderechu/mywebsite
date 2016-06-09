@@ -1,14 +1,18 @@
 #body {
+    font-family: 'Poiret One', cursive;
      background-color: gray;
      color: black;
 }
 
-#l1 {
+#l1 { 
+    font-family: 'Indie Flower', cursive;
     color:green;
 }
 #l2 {
+    font-family: 'Indie Flower', cursive;
     color:blue;
 }
 #l3 {
+    font-family: 'Indie Flower', cursive;
     color:red;
 }
