@@ -1,18 +1,23 @@
 #body {
+    font-size: 120%;
     font-family: 'Poiret One', cursive;
      background-color: gray;
-     color: black;
+     background-image:url(Image/superthumb.jpg);
+    color:#11AAEC;
 }
 
 #l1 { 
+    font-size: 120%;
     font-family: 'Indie Flower', cursive;
-    color:green;
+    color:#11AAEC;
 }
 #l2 {
+    font-size: 120%;
     font-family: 'Indie Flower', cursive;
-    color:blue;
+    color:#11AAEC;
 }
 #l3 {
+    font-size: 120%;
     font-family: 'Indie Flower', cursive;
-    color:red;
+    color:#11AAEC;
 }
