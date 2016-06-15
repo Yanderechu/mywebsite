@@ -21,3 +21,22 @@
     font-family: 'Indie Flower', cursive;
     color:#11AAEC;
 }
+.ul {
+    font-size:150%;
+    text-align: center;
+}
+
+a:link{
+    text-decoration: none;
+    background-color: red
+    border:1px solid bule;
+    color: black;
+    display: block;
+    width: 200x;
+    text-align: center;
+    margin-bottom: 1px;
+}
+a:hover, a:active {
+    background-color: #EFB1EF;
+    color: #ffffff
+}
